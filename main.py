@@ -1,2 +1,1 @@
-print("🤖 ربات با موفقیت روی Railway بالا اومد!")
-
+print("✅ Bot started successfully on Railway!")
